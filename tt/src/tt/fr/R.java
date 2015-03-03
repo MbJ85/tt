@@ -6,4 +6,6 @@ public class R {
 	private String test;
 	
 	private String kk;
+	
+	private String cool;
 }
