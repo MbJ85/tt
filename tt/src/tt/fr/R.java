@@ -12,4 +12,7 @@ public class R {
 	
 	
 	private String go;
+	
+	
+	private String jjjj;
 }
