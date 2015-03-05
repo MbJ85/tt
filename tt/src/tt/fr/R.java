@@ -25,4 +25,13 @@ public class R {
 	private String monta2;
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	private String tokotok;
+	
 }
