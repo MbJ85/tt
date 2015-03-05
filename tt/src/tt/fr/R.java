@@ -22,4 +22,6 @@ public class R {
 	
 	
 	private String monta1;
+	
+	private String monta2;
 }
