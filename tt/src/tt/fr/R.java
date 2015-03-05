@@ -19,4 +19,6 @@ public class R {
 	private String vvvvvvvv;
 	
 	private String kkkkkkk;
+	
+	private String MMMMMMMMMMM;
 }
