@@ -15,4 +15,6 @@ public class R {
 	
 	
 	private String jjjj;
+	
+	private String vvvvvvvv;
 }
