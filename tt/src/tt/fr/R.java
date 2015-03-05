@@ -8,4 +8,20 @@ public class R {
 	private String kk;
 	
 	private String cool;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
